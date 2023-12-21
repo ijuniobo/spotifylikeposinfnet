@@ -1,0 +1,12 @@
+C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.csproj.AssemblyReference.cache
+C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.AssemblyInfoInputs.cache
+C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.AssemblyInfo.cs
+C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.csproj.CoreCompileInputs.cache
+C:\identity\SpotifyLike\Spotifylike.Domain\bin\Debug\net6.0\Spotifylike.Domain.deps.json
+C:\identity\SpotifyLike\Spotifylike.Domain\bin\Debug\net6.0\Spotifylike.Domain.dll
+C:\identity\SpotifyLike\Spotifylike.Domain\bin\Debug\net6.0\Spotifylike.Domain.pdb
+C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.dll
+C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\refint\Spotifylike.Domain.dll
+C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.pdb
+C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\ref\Spotifylike.Domain.dll
