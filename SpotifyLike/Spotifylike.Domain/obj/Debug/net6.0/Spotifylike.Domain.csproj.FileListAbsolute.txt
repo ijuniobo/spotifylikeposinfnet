@@ -10,3 +10,15 @@ C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.d
 C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\refint\Spotifylike.Domain.dll
 C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.pdb
 C:\identity\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\ref\Spotifylike.Domain.dll
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\bin\Debug\net6.0\Spotifylike.Domain.deps.json
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\bin\Debug\net6.0\Spotifylike.Domain.dll
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\bin\Debug\net6.0\Spotifylike.Domain.pdb
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.dll
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\refint\Spotifylike.Domain.dll
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\Spotifylike.Domain.pdb
+C:\Users\Usuario\source\repos\spotifylikeposinfnet\SpotifyLike\Spotifylike.Domain\obj\Debug\net6.0\ref\Spotifylike.Domain.dll
