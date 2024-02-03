@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpotifyLike.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+869821296f25bd1ce3cfc64ff048a99323fbceb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpotifyLike.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpotifyLike.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

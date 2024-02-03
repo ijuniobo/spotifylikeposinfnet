@@ -32,6 +32,7 @@ namespace Spotifylike.Domain.Conta.Aggregates
 
         public List<Playlist> Playlists { get; set; } = new List<Playlist>();
 
+        public List<Notificacao.Notificacao> Notificacoes { get; set; } = new List<Notificacao.Notificacao>();
 
         public void CriarConta(string nome, string email, string senha, DateTime dtNascimento, Plano plano, Cartao cartao)
         {

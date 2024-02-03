@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oY8dl+WjNpf3OW3aJAQ2sHupKOp36bqbg7a3HCaLkOI0iocUdfcPXz2HWNzSZ0J/u80dpUFQmJscoM1VQP4z7w==",
+  "dgSpecHash": "QujnLzhywcf15yPzisbnIsB9TVGNjIvkGfGcKszQc4afqzgDuQEHGc+SGstd4bN7w50KRIY5N1+eKhQs+qFZ3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\spotifylikeposinfnet\\SpotifyLike\\Spotifylike.Domain\\Spotifylike.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\spotifylikeposinfnet\\SpotifyLike\\Spotifylike.Domain\\SpotifyLike.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

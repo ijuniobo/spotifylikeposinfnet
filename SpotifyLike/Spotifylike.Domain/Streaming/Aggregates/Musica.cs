@@ -1,4 +1,5 @@
-﻿using Spotifylike.Domain.Streaming.ValueObjects;
+﻿using Spotifylike.Domain.Conta.Aggregates;
+using Spotifylike.Domain.Streaming.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,9 @@ namespace Spotifylike.Domain.Streaming.Aggregates
         public String Nome { get; set; }
 
         public Duracao Duracao { get; set; }
+
+        public List<Playlist> Playlists { get; set; } = new List<Playlist>();
+
 
     }
 }
