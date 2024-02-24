@@ -1,25 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Spotifylike.Domain.Streaming.Aggregates
+namespace SpotifyLike.Application.Streaming.Dto
 {
-    public class Banda
+    public class BandaDto
     {
         public Guid Id { get; set; }
 
+
+        [Required]
         public String Nome { get; set; }
 
+        [Required]
         public String Descricao { get; set; }
 
         public String Backdrop { get; set; }
-
-        public virtual IList<Album> Albums { get; set; } = new List<Album>();
-
-        public void AdicionarAlbum(Album album) =>
-               this.Albums.Add(album);
 
     }
 }

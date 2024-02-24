@@ -15,9 +15,9 @@ namespace Spotifylike.Domain.Conta.Aggregates
 
         public Boolean Publica { get; set; }
 
-        public Usuario Usuario { get; set; }
+        public virtual Usuario Usuario { get; set; }
 
-        public List<Musica> Musicas { get; set; }
+        public virtual IList<Musica> Musicas { get; set; }
 
         public  DateTime DtCriacao { get; set; }
     }

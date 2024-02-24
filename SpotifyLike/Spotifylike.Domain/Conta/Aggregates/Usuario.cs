@@ -26,13 +26,13 @@ namespace Spotifylike.Domain.Conta.Aggregates
 
         public DateTime DtNascimento { get; set; }
 
-        public List<Cartao> Cartoes { get; set; } = new List<Cartao>();
+        public virtual IList<Cartao> Cartoes { get; set; } = new List<Cartao>();
 
-        public List<Assinatura> Assinaturas { get; set; } = new List<Assinatura>();
+        public virtual IList<Assinatura> Assinaturas { get; set; } = new List<Assinatura>();
 
-        public List<Playlist> Playlists { get; set; } = new List<Playlist>();
+        public virtual IList<Playlist> Playlists { get; set; } = new List<Playlist>();
 
-        public List<Notificacao.Notificacao> Notificacoes { get; set; } = new List<Notificacao.Notificacao>();
+        public virtual IList<Notificacao.Notificacao> Notificacoes { get; set; } = new List<Notificacao.Notificacao>();
 
         public void CriarConta(string nome, string email, string senha, DateTime dtNascimento, Plano plano, Cartao cartao)
         {

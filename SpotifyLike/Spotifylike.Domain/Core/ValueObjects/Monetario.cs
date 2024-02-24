@@ -14,6 +14,11 @@ namespace Spotifylike.Domain.Core.ValueObjects
         public static implicit operator decimal(Monetario d) => d.Valor;
         public static implicit operator Monetario(decimal valor) => new Monetario(valor);
 
+        public Monetario()
+        {
+                
+        }
+
         public Monetario(Decimal valor)
         {
             if (valor < 0)
