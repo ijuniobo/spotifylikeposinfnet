@@ -10,7 +10,7 @@ import { Album } from '../model/album';
 })
 export class BandaService {
 
-  private url = "https://localhost:7057/api/Banda"
+  private url = "https://localhost:44366/api/Banda"
 
   constructor(private httpClient: HttpClient) { }
 
