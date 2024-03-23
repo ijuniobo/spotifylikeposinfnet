@@ -9,6 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SpotifyLike.Domain.Core.Extension;
 
 namespace SpotifyLike.Application.Conta
 {
@@ -57,6 +58,12 @@ namespace SpotifyLike.Application.Conta
             return result;
         }
 
+        public UsuarioDto Autenticar(String email, String senha)
+        {
+            var usuario = this.UsuarioRepository.Find(x => x.Email == email && x.Senha == senha.HashSHA256()).FirstOrDefault();
+            var result = this.Mapper.Map<UsuarioDto>(usuario);
+            return result;
+        }
 
     }
 }
